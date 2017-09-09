@@ -7,3 +7,8 @@ The base project is 4x20W speakers for the quad setting and one big 200W subwoof
 We want to power this from a 12v powersupply, so the options on the bass amp are limited. We will try to reach 70w out of the IC.
 
 This project is designed for show at the local IEEE days in Zaragoza, where we build simple Class A amps from scratch, based on the BJT build.
+
+
+BOM:
+2 x https://www.norauto.es/producto/2-altavoces-one-13cm_319800.html?CatalogID=47935&CatalogCategoryName=47952
+1 x https://www.norauto.es/producto/subwoofer-kenwood-kfcw112s_247744.html?CatalogID=47935&CatalogCategoryName=47956
